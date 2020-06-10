@@ -10,5 +10,6 @@ public class Test {
         System.out.println("update 1");
         System.out.println("create branch");
         System.out.println("master add");
+        System.out.println("branch add");
     }
 }
